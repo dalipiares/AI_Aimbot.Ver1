@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: ScreenObjectDetection
+Version: 1.0.0
+Summary: Real-time screen object detection using YOLOv5 and CUDA
+Home-page: https://github.com/dalipiares/Roblox_1
+Author: dalipiares
+Author-email: ares.dalipi@stud.edubs.ch
+Requires-Dist: torch>=1.9.0
+Requires-Dist: torchvision>=0.10.0
+Requires-Dist: opencv-python
+Requires-Dist: mss
+Requires-Dist: numpy
+Requires-Dist: Pillow

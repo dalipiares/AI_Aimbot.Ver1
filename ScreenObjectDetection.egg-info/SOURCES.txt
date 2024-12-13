@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+ScreenObjectDetection.egg-info/PKG-INFO
+ScreenObjectDetection.egg-info/SOURCES.txt
+ScreenObjectDetection.egg-info/dependency_links.txt
+ScreenObjectDetection.egg-info/requires.txt
+ScreenObjectDetection.egg-info/top_level.txt
