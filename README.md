@@ -1,6 +1,6 @@
 # Screen Object Detection with YOLOv5 and CUDA
 
-This program scans your screen in real-time using a YOLOv5 object detection model, drawing bounding boxes around detected objects and displaying their names with confidence scores. It utilizes CUDA for GPU acceleration, optimized for NVIDIA RTX 4070 Ti.
+This program scans your screen in real-time using a YOLOv5 object detection model, drawing bounding boxes around detected objects and displaying their names with confidence scores. It utilizes CUDA for GPU acceleration, providing fast and efficient inference for aimbot purposes in gaming environments.
 
 ## Requirements
 
@@ -13,13 +13,13 @@ This program scans your screen in real-time using a YOLOv5 object detection mode
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Roblox_1.git
+   git clone https://github.com/dalipiares/AI_Aimbot.Ver1.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd Roblox_1
+   cd AI_Aimbot.Ver1
    ```
 
 3. **Create a virtual environment:**
